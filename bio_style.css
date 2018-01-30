@@ -1,0 +1,28 @@
+body{
+  background-color: #aaaaaa;
+  font-family: 'Didact Gothic', sans-serif;
+  border: 5px solid #ffffff;
+  padding: 25px;
+  margin: 25px;
+  max-width: 90%;
+}
+
+h1{
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+img{
+  border:2px solid #ffffff
+  margin: 0px 0px 5px 10px;
+  padding:5px;
+  display: inline;
+  float: right;
+
+}
+
+div {
+  height: 700px;
+}

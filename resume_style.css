@@ -1,0 +1,22 @@
+body{
+  background-color: #aaaaaa;
+  font-family: 'Didact Gothic', sans-serif;
+  border:2px solid #ffffff
+  padding
+}
+
+h1{
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+hr {
+ display: block;
+     height: 1px;
+     border: 0;
+     border-top: 1px solid #777777;
+     margin: 1em 0;
+     padding: 0;
+}
